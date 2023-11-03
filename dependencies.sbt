@@ -27,3 +27,6 @@ libraryDependencies += "dev.guardrail" %% "guardrail-scala-http4s" % "0.73.0"
 
 // guardrail-cli
 libraryDependencies += "dev.guardrail" %% "guardrail-cli" % "0.71.0"
+
+// slf4j
+libraryDependencies += "org.slf4j" % "slf4j-simple" % "2.0.9"
